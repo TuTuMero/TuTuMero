@@ -56,7 +56,7 @@ Me muevo entre el mundo web y la automatización, preparando mis primeros proyec
 ## 📡 Contacto & Redes
 
 🔗 **Sitio web:** *(en construcción — pronto disponible)*  
-🕹️ **Servidor de Discord:** *(https://discord.gg/e8NnSUaTYb)*  
+🕹️ **Servidor de Discord:** *[a](https://discord.gg/e8NnSUaTYb)*  
 📧 **Email:** *saulnunez0589@gmail.com*
 
 ---
