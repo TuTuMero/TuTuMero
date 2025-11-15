@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="[https://s6.ezgif.com/tmp/ezgif-6213c477b18fb7c9.gif](https://images-ext-1.discordapp.net/external/wfNKttgzmTpsrOunQEz0fTLOqG_dgP2bV7XgAvpBg0I/https/media.tenor.com/OKMiJjqXkMcAAAPo/java-programming.mp4)" width="500" alt="Hacker animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWthMXIxaGUycHlyaWhmbjd1d2FheGpzN3hiOHduaDJhMnpneTN2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Hacker animation">
 </div>
 
 <h1 align="center">👾 TuTuMero — Founder of TuTu Tec</h1>
