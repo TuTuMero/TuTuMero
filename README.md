@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="[https://i.imgur.com/1Q9Z1QX.gif](https://s6.ezgif.com/tmp/ezgif-6213c477b18fb7c9.gif)" width="500" alt="Hacker animation">
+  <img src="https://s6.ezgif.com/tmp/ezgif-6213c477b18fb7c9.gif" width="500" alt="Hacker animation">
 </div>
 
 <h1 align="center">👾 TuTuMero — Founder of TuTu Tec</h1>
