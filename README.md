@@ -55,7 +55,7 @@ Me muevo entre el mundo web y la automatización, preparando mis primeros proyec
 
 ## 📡 Contacto & Redes
 
-🔗 **Sitio web:** *(en construcción — pronto disponible)*  
+🔗 **Sitio web:** *[(en construcción — pronto disponible](https://tutu-tec.netlify.app/))*  
 🕹️ **Servidor de Discord:** *[TuTuTec](https://discord.gg/e8NnSUaTYb)*  
 📧 **Email:** *saulnunez0589@gmail.com*
 
